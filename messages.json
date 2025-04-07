@@ -1,19 +1,19 @@
 [
     {
-      "title": "Aktualizacja systemu",
+      "title": "Test 1",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non purus sit amet elit rhoncus porttitor ut nec nibh. Maecenas id ex aliquam, suscipit nibh quis, varius justo. In sit amet feugiat tortor. Mauris bibendum nisi ac dolor pulvinar sodales. Nunc bibendum at ipsum et aliquet. Cras vel lectus elementum, posuere augue tincidunt, sodales augue. Ut in ultricies neque. Ut tincidunt ac urna non ultricies. Curabitur consequat elementum libero non sagittis.",
       "priority": "important",
       "expiration": "2025-04-07T21:40:00Z"
     },
     {
-      "title": "Aktualizacja systemu 2",
-      "content": "Nowa wersja aplikacji jest dostępna.",
+      "title": "Test 2",
+      "content": "Daily news",
       "priority": "",
       "expiration": "2025-04-10T23:59:59Z"
     },
     {
-      "title": "Aktualizacja systemu 2",
-      "content": "Nowa wersja aplikacji jest dostępna.",
+      "title": "Update 1",
+      "content": "New app version",
       "priority": "critical",
       "expiration": "2025-04-10T23:59:59Z"
     }

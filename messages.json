@@ -16,6 +16,12 @@
       "content": "Nowa wersja aplikacji jest dostępna.",
       "priority": "critical",
       "expiration": "2025-04-07T16:54:00Z"
+    },
+    {
+      "title": "Aktualizacja systemu 4",
+      "content": "Nowa wersja aplikacji jest dostępna.",
+      "priority": "critical",
+      "expiration": "2025-04-07T16:54:00Z"
     }
 ]
   

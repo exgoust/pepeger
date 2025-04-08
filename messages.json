@@ -1,26 +1,20 @@
 [
     {
-      "title": "Test 1",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vestibulum faucibus lorem ac malesuada. Nullam lacinia nisi id lorem aliquet eleifend. Nunc quis tortor a turpis porta dignissim. Aenean ex velit, consequat eu efficitur id, semper ut elit. In hac habitasse platea dictumst. Aenean efficitur leo sit amet facilisis commodo. Aenean rutrum velit diam, at malesuada lorem aliquet ut. Nunc pulvinar vehicula eros sed venenatis. Maecenas eu tempor quam. Mauris eu semper massa, et pharetra felis. Sed consectetur ultricies felis, at laoreet odio porttitor dictum. In faucibus vel lectus a tristique. Curabitur volutpat, turpis et ornare rutrum, sem eros sagittis eros, non sollicitudin erat erat eu turpis. Duis sed tellus ipsum. In iaculis diam ut leo dignissim lobortis. Curabitur porttitor malesuada ex eget sodales. Mauris ac ligula orci. Nunc efficitur arcu nunc, sed rutrum erat vehicula vehicula. Duis id vehicula orci. Ut pretium pretium libero, nec aliquam orci. Nunc ac aliquet elit. Etiam convallis dolor id ultrices sagittis. Duis bibendum efficitur ullamcorper. Morbi sollicitudin sit amet mi eu maximus.",
+      "title": "VOTE for PEPECoin!",
+      "content": "Have you voted for PEPECoin yet? NO, what are you waiting for, do it now and click on the link!",
+      "priority": "critical",
+      "expiration": "2025-04-10 23:59:59"
+    },
+    {
+      "title": "Daily Clicks!",
+      "content": "Remember, it's you who makes more people know about PEPECoin, go to X, Reddit, upvote, like and leave a comment! https://www.reddit.com/r/pepecoin/ https://x.com/pepecoinnetwork",
       "priority": "important",
       "expiration": "2025-04-10 23:59:59"
     },
     {
-      "title": "Test 2",
-      "content": "Daily news",
+      "title": "Daily News",
+      "content": "PEPECoin has already gained 53%, we are in the lead!",
       "priority": "",
-      "expiration": "2025-04-10 23:59:59"
-    },
-    {
-      "title": "Update 1",
-      "content": "New app version",
-      "priority": "critical",
-      "expiration": "2025-04-10 23:59:59"
-    },
-    {
-      "title": "Update 2",
-      "content": "New app version",
-      "priority": "critical",
       "expiration": "2025-04-10 23:59:59"
     }
 ]

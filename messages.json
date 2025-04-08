@@ -16,17 +16,5 @@
       "content": "New app version",
       "priority": "critical",
       "expiration": "2025-04-10 23:59:59"
-    },
-    {
-      "title": "Update 2",
-      "content": "New app version",
-      "priority": "critical",
-      "expiration": "2025-04-10 23:59:59"
-    },
-    {
-      "title": "Update 3",
-      "content": "New app version",
-      "priority": "critical",
-      "expiration": "2025-04-10 23:59:59"
     }
 ]

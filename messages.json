@@ -1,7 +1,7 @@
 [
     {
-      "title": "TEST PEPE News",
-      "content": "Hi Byl its a test message!",
+      "title": "PEPE Test",
+      "content": "Checking notifications. Checking the notification badge on the app icon.",
       "priority": "critical",
       "expiration": "2025-04-30 23:59:59"
     },

@@ -1,0 +1,19 @@
+{
+  "title": "Welcome to PEPECoin!",
+  "content": "Make yourself comfortable and stay a while! \nhttps://pepecoin.org/",
+  "priority": "",
+  "expiration": "2025-04-30 23:59:59"
+}
+
+The message consists of:
+title - message title
+content - message content
+priority - message priority consisting of: "" (empty) - green color, "important" - yellow color, "critical" - red color
+expiration - expiration date of the message, after this date the message will not be displayed in the application but still exists in the data file - date pattern RRRR-MM-DD HH:MM:SS
+
+Message content:
+If a link is entered in the content, necessarily the entire - https://pepecoin.org/ - the application will recognize it and it will be possible to click it.
+
+If we want to move the text to the next line, we use the \n tag
+For example:
+"Make yourself comfortable and stay a while! \nhttps://pepecoin.org/" - where https://pepecoin.org/ will be moved to the next line because there is a \n tag before it

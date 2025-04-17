@@ -1,5 +1,11 @@
 [
     {
+      "title": "TEST PEPE News",
+      "content": "Hi Byl its a test message!",
+      "priority": "critical",
+      "expiration": "2025-04-30 23:59:59"
+    },
+    {
       "title": "Welcome to PEPECoin!",
       "content": "Make yourself comfortable and stay a while! \nhttps://pepecoin.org/",
       "priority": "",

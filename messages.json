@@ -3,7 +3,7 @@
       "title": "Welcome to PEPECoin!",
       "content": "Make yourself comfortable and stay a while! \nhttps://pepecoin.org/",
       "priority": "",
-      "expiration": "2025-04-30 23:59:59"
+      "expiration": "2025-12-31 23:59:59"
     },
     {
       "title": "Daily Clicks!",
@@ -12,8 +12,14 @@
       "expiration": "2025-12-31 23:59:59"
     },
     {
-      "title": "PEPE New X Post",
+      "title": "PEPE Lemon.Tart X Post",
       "content": "New post from Lemon.Tart, like, repost and comment \nhttps://x.com/LemonsTartsX/status/1912817901368750511",
+      "priority": "important",
+      "expiration": "2025-04-17 23:59:59"
+    },
+    {
+      "title": "PEPE Byl X Post",
+      "content": "New post from Byl, like, repost and comment \nhttps://x.com/Byl_Pepecoin/status/1912781911690223789",
       "priority": "important",
       "expiration": "2025-04-17 23:59:59"
     }

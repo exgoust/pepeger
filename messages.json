@@ -1,5 +1,11 @@
 [
     {
+      "title": "Big PEPECoin drop!",
+      "content": "On Discord in Toad Tavern, we need 75 repetitions of the emote that the bot writes in the chat (he does it every 30 minutes) without interruption - that is, no other message can appear between emotes!",
+      "priority": "critical",
+      "expiration": "2025-04-31 23:59:59"
+    },
+    {
       "title": "Welcome to PEPECoin!",
       "content": "Make yourself comfortable and stay a while! \nhttps://pepecoin.org/",
       "priority": "",

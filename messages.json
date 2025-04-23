@@ -7,10 +7,17 @@
         "expiration": "2025-12-31 23:59:59"
     },
     {
-        "title": "Easter X Post Lemon.Tart🍋!",
-        "content": "Go to X https://x.com/LemonsTartsX/status/1914599828337693065 \nUpvote, like and leave a comment!",
+        "title": "New X Post from Byl!",
+        "content": "Go to X https://x.com/Byl_Pepecoin/status/1914941593582288940 \nUpvote, like and leave a comment!",
         "priority": "important",
-        "start": "2025-04-23 00:02:00",
-        "expiration": "2025-04-22 23:59:59"
+        "start": "2025-04-23 10:00:00",
+        "expiration": "2025-04-23 10:00:00"
+    },
+    {
+        "title": "New X Post from Lemon.Tart🍋!",
+        "content": "Go to X https://x.com/LemonsTartsX/status/1914956798546661860 \nUpvote, like and leave a comment!",
+        "priority": "important",
+        "start": "2025-04-23 10:00:00",
+        "expiration": "2025-04-23 10:00:00"
     }
 ]

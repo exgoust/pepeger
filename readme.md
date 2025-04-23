@@ -26,7 +26,8 @@ Pepeger v1.0 is currently available for **Android (API 21+, Android 5.0 Lollipop
   - **Green** – Normal
 
 - 🔄 **Real-Time Data Updates**  
-  The application fetches data from a configurable `.json` source with **instant updates** – messages appear in real-time, without noticeable delay.
+  The application fetches data from a configurable .json source with instant updates – messages appear in real-time, without noticeable delay. Additionally, the app automatically refreshes data every 5 minutes, ensuring that users always have access to the latest 
+  information. Users also have the option to manually refresh the data by tapping the refresh arrow ⟳.
 
 - 🔊 **Musical Surprise**  
   A small, lighthearted element awaits users within the app — a **musical Easter egg** for those curious enough to explore!

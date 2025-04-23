@@ -1,4 +1,4 @@
-# Pepeger App – Whitepaper v1.0
+# PEPEger App – Whitepaper v1.0
 
 ## Overview
 

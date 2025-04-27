@@ -64,7 +64,7 @@ Pepeger v1.0 is currently available for **Android (API 21+, Android 5.0 Lollipop
 - 📲 **Device Testing Needed**  
   While tested on several devices, broader testing is encouraged — especially on older models. If the app crashes or messages don’t load, feedback is appreciated.  
   👉 [Join the Community on Discord](https://discord.com/invite/6NXJt25q2J)  
-  📬 Contact: **@ex.goust**
+  📬 Contact: **@ex.goust** or **[goust](https://discord.com/users/600441413267619863)
 
 ---
 

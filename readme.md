@@ -96,4 +96,4 @@ Pepeger aims to provide a simple, effective way to distribute high-priority comm
 
 Let’s make communication quicker, clearer, and more fun.
 
-Oh, and don’t forget to listen for the musical surprise!
+🎵 Oh, and don’t forget to listen for the musical surprise! 🎵
